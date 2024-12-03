@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: ADA Template Website
-description: A template website for ADA
+title: US beer preference
+description: Data story for ADA project
 show_downloads: True
 navigation:
   - title: Home
